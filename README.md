@@ -83,7 +83,7 @@ hist.draw();
 StdDraw.save(TrsHistogram.HISTOGRAM_FILE_PATH);
 ```
 
-![Histogram](hist.png)
+![Histogram](Screenshots/Histogram.png)
 
 Email the results:
 
